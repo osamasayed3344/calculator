@@ -41,9 +41,9 @@ button:hover{
 .container{
 	display:flex;
 }
-.equal{
-	margin-left:5px;
-}
 .equal button{
 	height:100%
+}
+.numbers,.operation{
+	display:flex;
 }
